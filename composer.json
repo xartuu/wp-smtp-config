@@ -1,0 +1,31 @@
+{
+  "name": "artuu/wp-smtp-config",
+  "description": "Uses SMTP server from wordpress config (works with Bedrock and Wordplate too).",
+  "type": "wordpress-muplugin",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Artur Kociszewski",
+      "homepage": "https://github.com/xartuu"
+    }
+  ],
+  "keywords": [
+    "smtp",
+    "custom-smtp",
+    "wordpress-smtp",
+    "wordpress",
+    "wordplate",
+    "bedrock",
+    "wordpress-plugin"
+  ],
+  "support": {
+    "issues": "https://github.com/xartuu/wp-smtp-config/issues",
+    "forum": "https://github.com/xartuu/wp-smtp-config"
+  },
+  "require": {
+    "php": ">=7.1"
+  },
+  "config": {
+    "preferred-install": "dist"
+  }
+}
