@@ -11,7 +11,7 @@
  * Plugin Name:       SMTP Config
  * Plugin URI:        https://github.com/xartuu/wp-smtp-config
  * Description:       Uses SMTP server from WordPress config (works with Bedrock and Wordplate too).
- * Version:           0.1.0
+ * Version:           1.0
  * Author:            Artur Kociszewski
  * Author URI:        https://arturkociszewski.pl/
  * License:           GPL v3 or later
